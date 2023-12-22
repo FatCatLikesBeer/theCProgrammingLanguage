@@ -1,0 +1,2 @@
+# Ignore any binary executable files.
+*.out
